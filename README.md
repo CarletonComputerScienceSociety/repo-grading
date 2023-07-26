@@ -15,6 +15,8 @@ Before examining each of these, let's assess the overall goal.
 ## Goals + Learning Outcomes
 
 Diving into each one
+Learn that implementing some features isn't as scary as they think it is
+Having a project that they can put on their resume
 
 ### Frontend Projects
 
